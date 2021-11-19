@@ -376,7 +376,7 @@ h6{position: relative;
     color:rgba(3, 3,3);
     font-size: 1.6em;
 }
-.audio{ display:inline-block;}
+.audio{ display:block;}
 
 .swal-overlay {
     background-image: url("257900358_1825853774275232_5996023177826076623_n.jpg");
